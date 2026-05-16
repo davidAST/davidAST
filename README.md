@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Nivel_Ingl%C3%A9s-C1%20Advanced-orange?style=for-the-badge" alt="Inglés C1">
 </p>
 
-Soy estudiante de **Ingeniería Informática del Software** con una sólida base en desarrollo Full Stack (Java, SQL, React) y experiencia práctica en arquitecturas de microservicios, metodologías ágiles y entornos DevOps. 
 ---
 
 ### 🚀 Sobre Mí
