@@ -41,7 +41,7 @@
 ### 📬 Conecta Conmigo
 
 * 📧 **Email:** [davidad5522@gmail.com](mailto:davidad5522@gmail.com)
-* 💼 [Perfil de LinkedIn](in/david-alonso-d%C3%ADaz-39a254408)
+* 💼 [Perfil de LinkedIn](https://www.linkedin.com/in/david-alonso-d%C3%ADaz-39a254408)
 
 **Mis cuentas de GitHub:**
 * 💻 Cuenta Personal: [@davidAST](https://github.com/davidAST)
