@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre Mí
 
-- 🎓 Actulamente cursando el **Grado en Ingeniería Informática del Software** en la **Universidad de Oviedo** (2023 - 2027).
+- 🎓 Actualmente cursando el **Grado en Ingeniería Informática del Software** en la **Universidad de Oviedo** (2023 - 2027).
 - 🌍 Certificación **Advanced English Certificate (C1)** por Cambridge University (2022).
 - 📍 Piedras Blancas / Cudillero, Asturias.
 
@@ -28,13 +28,6 @@
 * **Frontend:** React
 * **DevOps & Sistemas:** Docker, Git, GitHub Actions, Linux (Terminal)
 * **Videojuegos:** Unreal Engine (Blueprints)
-
----
-
-### ⚙️ Metodologías y DevOps
-
-* **SCRUM:** Experiencia en el uso de tableros Kanban y Sprint Backlogs para organizar flujos de trabajo eficientes en equipo. Gestión de ramas y revisión de código mediante **GitFlow** en GitHub, asegurando la integración continua.
-* **DevOps & CI/CD:** Creación y gestión de entornos aislados mediante **Docker**, asegurando paridad de entornos desarrollo/producción. Automatización de flujos de trabajo con **GitHub Actions** aplicando control de calidad mediante pruebas unitarias y de integración.
 
 ---
 
